@@ -18,8 +18,8 @@ A backend API that allows users to:
 
 | Technology | Purpose |
 |---|---|
-| Java 17 | Programming language |
-| Spring Boot 3 | Application framework |
+| Java 17/21 | Programming language |
+| Spring Boot 4 | Application framework |
 | Spring Security | Authentication & Authorization |
 | Spring Data JPA | Database operations |
 | PostgreSQL | Relational database |
