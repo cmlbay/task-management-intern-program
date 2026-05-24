@@ -52,8 +52,8 @@ You will follow this branching strategy throughout the program:
 
 | Branch | Purpose |
 |---|---|
-| `main` | Protected, stable code only |
-| `develop` | Integration branch |
+| `master` | Protected, stable code only |
+| `dev` | Integration branch |
 | `feature/xxx` | Your weekly work |
 
 **Week 1 branch name:** `feature/week-1-setup`
@@ -64,7 +64,7 @@ Create a simple endpoint to verify your setup:
 
 ### 6. Open Your First Pull Request
 - Push your `feature/week-1-setup` branch
-- Open a PR to `main`
+- Open a PR to `master`
 - Make sure the PR checklist is complete
 
 ## Deliverables
