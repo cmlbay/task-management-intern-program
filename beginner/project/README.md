@@ -45,12 +45,6 @@ their projects and tasks collaboratively.
 **Task**
 - id, title, description, status, priority, dueDate, project, assignee, reporter, createdAt, updatedAt
 
-### Entity Relationship
-User ────────────── ProjectMember ────────── Project
-│                                               │
-│ (reporter / assignee)                         │
-└──────────────────── Task ─────────────────────┘
-
 ## Technical Requirements
 
 - Language: Java 17+
