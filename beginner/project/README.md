@@ -53,8 +53,8 @@ User ────────────── ProjectMember ──────
 
 ## Technical Requirements
 
-- Language: Java 17
-- Framework: Spring Boot 3.x
+- Language: Java 17+
+- Framework: Spring Boot 4.x
 - Security: Spring Security + JWT
 - Database: PostgreSQL
 - ORM: Spring Data JPA / Hibernate
